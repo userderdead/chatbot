@@ -19,7 +19,7 @@ aqua = Client(
 
 @aqua.on_message(filters.command(["start"]))
 async def start (client , message):
-    await message.reply_text(text = ''' I AM KANNA-CHAN ✨ 
+    await message.reply_text(text = ''' I AM MUSIC PLAYER 🎵
     \n\n I AM YOUR VIRTUAL FRIEND ✨
     \n\nI CAN REPLY TO ANY TEXT MESSAGE YOU SEND✨''')
 
