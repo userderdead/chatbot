@@ -14,7 +14,7 @@ DONATE: <a href="https://t.me/raveen2003">BUY US A COFFEE</a>
 
 CONTACT DEV : <a href="https://t.me/userderdead">Akku🔥</a>
 
-DEPLOY YOUR OWN BOT : [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/userderdead/chat bot)
+DEPLOY YOUR OWN BOT : [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/userderdead/chatbot)
 
 IF YOU LIKE THIS SERVICE FOLLOW ME : <a href="https://github.com/userderdead">Akku🔥</a>
 
