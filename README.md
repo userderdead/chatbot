@@ -8,7 +8,7 @@
 DEMO
  <a href="https://t.me/UserderdeadBot"><img src="https://img.shields.io/badge/Bot%20Status%20-UP-green"></a>
 
-Copyright (C) 2020-2026 by <a href="https://github.com/raveen2k3">Raveen2k3@Github</a>
+Copyright (C) 2020-2026 by <a href="https://github.com/userderdead">github/userderdead</a>
 
 DONATE: <a href="https://t.me/raveen2003">BUY US A COFFEE</a>
 
